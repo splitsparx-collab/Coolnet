@@ -72,7 +72,7 @@ export default function Contact() {
         <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
           <div className="aspect-w-16 aspect-h-9 h-96 md:h-[500px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.31795284553!2d30.803148699999997!3d-17.8216288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1931a4a3fc9cb3cd%3A0x5696e43e8ead1117!2sHarare%2C%20Zimbabwe!5e0!3m2!1sen!2s!4v1234567890"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.3234567890!2d30.8161!3d-17.8252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1931a4a3fc9cb3cd%3A0x5696e43e8ead1117!2sCoolnet%20Air%20Conditioning%20%26%20Fridge%20Repairs%2C%20Harare%2C%20Zimbabwe!5e0!3m2!1sen!2zZW4!4v1234567890"
               width="100%"
               height="100%"
               style={{ border: 0 }}
